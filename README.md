@@ -1,4 +1,4 @@
-# Hi there, I'm [Zhan Zlatkov]! 👋
+# Hi there, I'm [Zhan Zlatkov](https://www.linkedin.com/in/zhan-zlatkov/)! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zlatk0v&color=brightgreen)
 
