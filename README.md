@@ -41,9 +41,8 @@ Feel free to explore my repositories to learn more about my work.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zlatk0v&show_icons=true&hide=prs&count_private=true&theme=radical&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zlatk0v&layout=compact&theme=radical&cache_seconds=1800)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zlatk0v&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zlatk0v&theme=radical)
 ---
 
 ## 🔗 Let's Connect
